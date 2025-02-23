@@ -7,3 +7,6 @@ Ml Tlachac*, Miranda Reisch*, Avantika Shrestha, Ricardo Flores, Ermal Toto, and
 
 For more information about this research, visit our project website https://emutivo.wpi.edu
 
+
+*Authors contributed equally
+
